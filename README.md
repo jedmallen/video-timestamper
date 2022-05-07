@@ -16,3 +16,6 @@ The time stamp will appear on the upper left of the video with a size 20 white f
 
 You should have a working ffmpeg installation.
 
+## Author
+
+pnocti@pnocti.org
