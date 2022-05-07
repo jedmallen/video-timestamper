@@ -6,6 +6,10 @@ Add date and timestamps to your video. Useful for reviewing recorded meetings an
 
 The time stamp will appear on the upper left of the video with a size 20 white font, in black background.
 
+
+<!-- ![](images/sample.png) -->
+<img src="images/sample.png" width=800>
+
 ## Usage
 
 ```
